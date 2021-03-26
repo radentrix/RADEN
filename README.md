@@ -10,7 +10,7 @@ apt install python
 
 git clone https://github.com/radentrix/RADEN.git
 
-cd proxy
+cd RADEN
 
 python3 -m pip install requests
 
